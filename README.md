@@ -6,6 +6,7 @@ deanonymization attacks.
 **Dependencies**
 
 * Tested with Python 3.6.3
+* `networkx` version 2.0
 
 **How do I use this library?**
 
